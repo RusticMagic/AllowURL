@@ -14,5 +14,7 @@ mistsys.net
 *.mistsys.net
 juniper.net
 *.juniper.net
-*client-central.com
+*.client-central.com
 client-central.com
+uscellular.com
+*.uscellular.com
