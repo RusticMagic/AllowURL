@@ -51,9 +51,11 @@ download.microsoft.com
 windowsupdate.microsoft.com
 ntservicepack.microsoft.com
 wustat.windows.com
-*.update.microsoft.com
 test.stats.update.microsoft.com
 support.addontechnologies.com
 *.support.addontechnologies.com
 msedge.api.cdp.microsoft.com
 *.msedge.api.cdp.microsoft.com
+go.microsoft.com
+dl.delivery.mp.microsoft.com
+*.delivery.mp.microsoft.com
