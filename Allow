@@ -59,3 +59,15 @@ msedge.api.cdp.microsoft.com
 go.microsoft.com
 dl.delivery.mp.microsoft.com
 *.delivery.mp.microsoft.com
+login.live.com
+activation.sls.microsoft.com/
+crl.microsoft.com/pki/crl/products/MicProSecSerCA_2007-12-04.crl
+validation.sls.microsoft.com/
+activation-v2.sls.microsoft.com/
+validation-v2.sls.microsoft.com/
+displaycatalog.mp.microsoft.com/
+licensing.mp.microsoft.com/
+purchase.mp.microsoft.com/
+displaycatalog.md.mp.microsoft.com/
+licensing.md.mp.microsoft.com/
+purchase.md.mp.microsoft.com/
