@@ -84,3 +84,7 @@ stm.experian.com/
 *.teams.microsoft.com
 teams.cloud.microsoft/
 teams.microsoft.com/
+*.trafficmanager.net
+*.msedge.net
+*.relay.teams.microsoft.com
+*.infra.teams.microsoft.com
