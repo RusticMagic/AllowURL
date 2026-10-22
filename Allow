@@ -98,4 +98,7 @@ alogent.egresscloud.com/
 *.ultipro.com
 ultipro.com/
 *endpoint.ingress.rapid7.com
+*.endpoint.ingress.rapid7.com
 endpoint.ingress.rapid7.com/
+*.insight.rapid7.com
+*insight.rapid7.com
